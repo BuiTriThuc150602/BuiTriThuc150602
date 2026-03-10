@@ -28,6 +28,14 @@ Strong background in backend engineering with focus on:
 
 # 🧠 Core Engineering Areas
 
+---
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,dotnet,nodejs,nestjs,react,angular,flutter,docker,aws,gcp,postgres,mongodb"/>
+</p>
+
+---
+
 ### Backend
 
 Java • Spring Boot • .NET • NodeJS • NestJS
@@ -56,11 +64,6 @@ AWS (EC2, S3) • Google Cloud
 
 C/C++ (device integration & native Flutter modules)
 
----
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,dotnet,nodejs,nestjs,react,angular,flutter,docker,aws,gcp,postgres,mongodb"/>
-</p>
 ---
 
 # 🛠 Tech Stack

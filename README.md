@@ -90,11 +90,8 @@ C/C++ (device integration & native Flutter modules)
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=BuiTriThuc150602&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuiTriThuc150602&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=BuiTriThuc150602&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuiTriThuc150602&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="170"/>
 </p>
 
 ---

@@ -100,9 +100,7 @@ C/C++ (Flutter native integration & device communication)
 # 🐍 Contribution Snake
 
 <p align="center">
-
 <img src="https://raw.githubusercontent.com/BuiTriThuc150602/BuiTriThuc150602/output/github-contribution-grid-snake.svg"/>
-
 </p>
 
 ---

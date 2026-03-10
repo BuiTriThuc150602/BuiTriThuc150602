@@ -2,11 +2,11 @@
 
 # 👋 Hi, I'm Tri Thuc
 
-### Backend / Fullstack Engineer
+### Backend / Distributed Systems Engineer
 
-Cloud • Microservices • Distributed Systems • High Performance APIs
+Building scalable backend systems • Cloud Native • Microservices
 
-<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=36BCF7&center=true&vCenter=true&width=600&lines=Backend+Engineer;Microservices+Architecture;Cloud+Native+Developer;Distributed+Systems+Enthusiast;Fullstack+Developer"/>
+<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=36BCF7&center=true&vCenter=true&width=600&lines=Backend+Engineer;Distributed+Systems;Cloud+Native+Developer;Microservices+Architecture;System+Design+Enthusiast"/>
 
 </div>
 
@@ -14,68 +14,78 @@ Cloud • Microservices • Distributed Systems • High Performance APIs
 
 # 🚀 Professional Summary
 
-Backend / Fullstack developer focused on building scalable backend systems and cloud-native applications.
+Backend / Fullstack engineer experienced in building **high performance distributed systems** and **cloud native architectures**.
 
-Experienced in designing and developing **microservices architectures**, distributed systems, and cloud deployments.
+Strong background in backend engineering with focus on:
 
-Engineering interests:
-
-- Distributed Systems
-- High Performance APIs
-- Cloud Native Architecture
-- Event Driven Systems
-- IoT / Device Integration
-- System Design
+- scalable backend APIs
+- microservices architecture
+- cloud infrastructure
+- event-driven systems
+- device integration
 
 ---
 
-# 🧠 Technical Expertise
+# 🧠 Core Engineering Areas
 
 ### Backend
 
 Java • Spring Boot • .NET • NodeJS • NestJS
 
-### Frontend / Mobile
+### Frontend
 
-Angular • React • Flutter
+Angular • React
+
+### Mobile
+
+Flutter
 
 ### Databases
 
 PostgreSQL • MongoDB • SQL
 
-### DevOps / Infrastructure
+### DevOps
 
-Docker • AWS • Google Cloud • GitHub CI/CD
+Docker • GitHub CI/CD
 
-### Systems Programming
+### Cloud
 
-C/C++ (Flutter native integration & device communication)
+AWS (EC2, S3) • Google Cloud
 
+### Systems
+
+C/C++ (device integration & native Flutter modules)
+
+---
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,dotnet,nodejs,nestjs,react,angular,flutter,docker,aws,gcp,postgres,mongodb"/>
+</p>
 ---
 
 # 🛠 Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs)
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
 
-![PostgreSQL](https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql)
+![Postgres](https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge&logo=googlecloud)
-![GitHub Actions](https://img.shields.io/badge/GitHub_CI/CD-2088FF?style=for-the-badge&logo=githubactions)
+![GoogleCloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud)
+![GitHubActions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions)
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Metrics
 
 <p align="center">
 
@@ -87,11 +97,11 @@ C/C++ (Flutter native integration & device communication)
 
 ---
 
-# 📈 GitHub Activity Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BuiTriThuc150602&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BuiTriThuc150602&theme=tokyo-night"/>
 
 </p>
 
@@ -100,30 +110,49 @@ C/C++ (Flutter native integration & device communication)
 # 🐍 Contribution Snake
 
 <p align="center">
+
 <img src="https://raw.githubusercontent.com/BuiTriThuc150602/BuiTriThuc150602/output/github-contribution-grid-snake.svg"/>
+
 </p>
 
 ---
 
-# 🏗 Engineering Interests
+# 🧭 Engineering Interests
 
-- Microservices Architecture
 - Distributed Systems
-- High Performance Backend
+- Microservices Architecture
 - Event Driven Systems
 - Cloud Native Applications
-- IoT Integration
+- High Performance Backend APIs
+- IoT / Device Integration
+
+---
+
+# 🏗 System Design Interests
+
+Examples of architectures I enjoy working with:
+
+- Microservices platform with event streaming
+- Scalable REST / GraphQL APIs
+- Real-time IoT device communication
+- Cloud infrastructure automation
 
 ---
 
 # 📌 Featured Projects
 
-You can pin important repositories here:
+Pinned repositories showcase:
 
-- Microservices platform
-- High performance backend system
-- Flutter + device integration
-- Cloud infrastructure
+- microservices platforms
+- distributed systems
+- high performance APIs
+- device integration with C++
+
+---
+
+# 👀 Visitors
+
+![](https://komarev.com/ghpvc/?username=BuiTriThuc150602&color=blue)
 
 ---
 
